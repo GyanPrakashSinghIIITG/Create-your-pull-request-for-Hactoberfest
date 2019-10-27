@@ -8,6 +8,6 @@ int main()
   for(i=1;i<=number;i++){    
       fact=fact*i;    
   }    
-  cout<<"Factorial of " <<number<<" is: "<<fact<<endl;  
+  cout<<"Factorial of " <<number<<" is : "<<fact<<endl;  
   return 0;  
 }  
