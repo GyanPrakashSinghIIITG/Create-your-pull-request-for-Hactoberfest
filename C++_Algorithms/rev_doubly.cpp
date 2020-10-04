@@ -31,7 +31,7 @@ void insertEnd(Node** head, Node* new_node)
   
     // If list is not empty 
   
-    /* Find last node */
+    // Find last node
     Node* last = (*head)->prev; 
   
     // Start is going to be next of new_node 
@@ -120,7 +120,7 @@ int main()
     display(head); 
   
     head = reverse(head); 
-  
+  //printing the reversed list 
     cout << "\n\nReversed list:\n"; 
     display(head); 
   
