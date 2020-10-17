@@ -2,7 +2,7 @@
 // duplicates allowed using rotate() in STL
 #include <bits/stdc++.h>
 using namespace std;
-
+//#include
 // Function to print permutations of string str,
 // out is used to store permutations one by one
 void permute(string str, string out)
