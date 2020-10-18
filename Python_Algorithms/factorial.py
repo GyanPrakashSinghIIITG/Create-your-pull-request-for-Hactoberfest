@@ -1,7 +1,7 @@
 
 
 # change the value for a different result
-num = 7
+num = 12
 
 # uncomment to take input from the user
 #num = int(input("Enter a number: "))
@@ -17,3 +17,5 @@ else:
    for i in range(1,num + 1):
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
+#This is just a simple demonstration   
+   
