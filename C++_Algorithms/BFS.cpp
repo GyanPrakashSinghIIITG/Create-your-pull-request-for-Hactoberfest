@@ -75,7 +75,8 @@ void Graph::BFS(int s)
 	} 
 } 
 
-// Driver program to test methods of graph class 
+//  Driver program to test methods of graph class 
+// this is main function
 int main() 
 { 
 	// Create a graph given in the above diagram 
