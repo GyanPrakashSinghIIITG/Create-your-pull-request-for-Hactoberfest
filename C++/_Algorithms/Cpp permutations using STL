@@ -1,5 +1,6 @@
 // C++ program to print all permutations with
 // duplicates allowed using rotate() in STL
+// Let the fun begin
 #include <bits/stdc++.h>
 using namespace std;
 //#include
