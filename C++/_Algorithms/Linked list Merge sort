@@ -1,4 +1,4 @@
-// C code for linked list merged sort
+// C code for linked list merged
 #include <stdio.h>
 #include <stdlib.h>
 
