@@ -3,7 +3,7 @@ def KMPSearch(pat, txt):
 	M = len(pat)
 	N = len(txt)
 
-	# create lps[] that will hold the longest prefix suffix
+	# create lps[] that will old the longest prefix suffix
 	# values for pattern
 	lps = [0]*M
 	j = 0 # index for pat[]
