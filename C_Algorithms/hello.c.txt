@@ -1,5 +1,5 @@
+//this is a comment
 #include<stdio.h>
-
 int main(){
 printf("Hell World\n");
 return 0;
