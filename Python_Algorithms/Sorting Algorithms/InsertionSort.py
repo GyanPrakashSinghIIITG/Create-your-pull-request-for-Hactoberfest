@@ -8,7 +8,7 @@ def insertion_sort (L):
             j = j-1
         L [j+1] = item
 if __name__ == "__main__":
-    print("Input the Array that has to be sorted divided by spaces")
+    print("  Input the Array that has to be sorted divided by spaces  ")
     L = input().split()
     insertion_sort (L)
     print("The Sorted Array is:")
