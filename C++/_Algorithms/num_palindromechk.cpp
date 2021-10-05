@@ -13,7 +13,7 @@ int main()
  n=n/10;    
 }    
 if(temp==sum)    
-cout<<"Number is Palindrome.";    
+cout<<"Number is surely Palindrome.";    
 else    
 cout<<"Number is not Palindrome.";   
   return 0;  
