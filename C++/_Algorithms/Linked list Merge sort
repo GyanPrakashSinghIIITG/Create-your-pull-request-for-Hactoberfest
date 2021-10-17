@@ -1,6 +1,5 @@
 // C code for linked list merged
 #include <stdio.h>
-#include <stdlib.h>
 
 /* Link list node */
 struct Node {
