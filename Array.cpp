@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 int a[50],i,n,large,small;
-cout << “\nEnter the number of elements : “;
+cout << “\nEnter the number of elements of your choice  : “;
 cin >> n;
 cout << “\nInput the array elements : “;
 for(i=0;i<n;++i)
