@@ -1,4 +1,4 @@
-// C++ program to solve Rat in a Maze problem using
+// this is C++ program to solve Rat in a Maze problem using
 // backtracking
 #include <bits/stdc++.h>
 using namespace std;
