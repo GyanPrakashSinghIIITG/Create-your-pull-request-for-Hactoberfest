@@ -1,5 +1,5 @@
 // C program to solve Rat in a Maze problem using
-// backtracking
+// backtracking used
 #include <stdio.h>
 #include <stdbool.h>
 // Maze size
@@ -78,7 +78,7 @@ bool solveMazeUtil(int maze[N][N], int x, int y, int sol[N][N])
 	return false;
 }
 
-// driver program to test above function
+// main program to test above function
 int main()
 {
 	int maze[N][N] = { { 1, 0, 0, 0 },
