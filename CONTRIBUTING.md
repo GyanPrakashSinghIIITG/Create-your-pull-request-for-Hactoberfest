@@ -8,9 +8,6 @@
 
 <p align="center">
    <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/GyanPrakashSinghIIITG/Create-your-pull-request-for-Hactoberfest>
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/GyanPrakashSinghIIITG/Create-your-pull-request-for-Hactoberfest">
-   <img alt="contributors" src="https://img.shields.io/github/contributors/GyanPrakashSinghIIITG/Create-your-pull-request-for-Hactoberfest">
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/GyanPrakashSinghIIITG/Create-your-pull-request-for-Hactoberfest
 </p>
 
 # Upload Projects or Different Types of Programs in any Language
