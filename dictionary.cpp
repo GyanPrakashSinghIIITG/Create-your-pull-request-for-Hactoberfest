@@ -1,7 +1,5 @@
 /*
 This dictionary is used to store keywords with their meanings.
-also have provided some facilities to add, delete,update values and to display keywords in specific order(ascending/descending)
-Use of Height Balanced Tree.
 */
 
 
