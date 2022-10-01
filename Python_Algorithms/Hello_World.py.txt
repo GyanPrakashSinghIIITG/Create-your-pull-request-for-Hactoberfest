@@ -1,4 +1,4 @@
 # This program prints Hello, world!
 
 
-print('Hello, world, i am gps!')
+print('Hello, world, i am gps not global positioning system!')
