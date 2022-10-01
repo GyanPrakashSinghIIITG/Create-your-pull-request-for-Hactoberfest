@@ -1,4 +1,3 @@
-/* A typical recursive implementation of Quicksort for array*/
 
 /* This function takes last element as pivot, places the pivot element at its
 correct position in sorted array, and places all smaller (smaller than
