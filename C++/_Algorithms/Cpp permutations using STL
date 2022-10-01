@@ -1,4 +1,3 @@
-// C++ program to print all permutations with
 // duplicates allowed using rotate() in STL
 #include <bits/stdc++.h>
 using namespace std;
