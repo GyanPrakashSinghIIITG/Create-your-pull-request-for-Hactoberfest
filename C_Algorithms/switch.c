@@ -1,9 +1,10 @@
-// Following is a simple C program 
-// to demonstrate syntax of switch. 
+// This is a simple C program 
+// It demonstrate syntax of switch. 
 #include <stdio.h> 
 int main() 
 { 
 int x = 2; 
+// code for switch function
 switch (x) 
 { 
 	case 1: printf("Choice is 1"); 
