@@ -1,6 +1,9 @@
-//this is a comment
+//this is a simple code to print Hello Worls
+
 #include<stdio.h>
+//main part
+
 int main(){
-printf("Hello World\n");
+printf("Hello World\n"); //for printing the input
 return 0;
 }
