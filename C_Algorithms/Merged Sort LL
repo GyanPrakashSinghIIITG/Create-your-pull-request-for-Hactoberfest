@@ -14,6 +14,7 @@ void FrontBackSplit(struct Node* source,
 					struct Node** frontRef, struct Node** backRef); 
 
 /* sorts the linked list by changing next pointers (not data) */
+// Main sort function code 
 void MergeSort(struct Node** headRef) 
 { 
 	struct Node* head = *headRef; 
@@ -37,6 +38,8 @@ void MergeSort(struct Node** headRef)
 } 
 
 /* See https:// www.geeksforgeeks.org/?p=3622 for details of this 
+// another function code to Sort the data under merged 
+
 function */
 struct Node* SortedMerge(struct Node* a, struct Node* b) 
 { 
@@ -139,3 +142,4 @@ Created lists shall be a: 2->3->20->5->10->15 */
 	getchar(); 
 	return 0; 
 } 
+// code has been written with many functions code
