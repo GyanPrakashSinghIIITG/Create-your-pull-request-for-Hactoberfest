@@ -6,7 +6,9 @@
 struct Node { 
     int data; 
     struct Node* next; 
-}; 
+};
+
+// writing code with two function mainly
   
 /* Function to reverse the linked list */
 static void reverse(struct Node** head_ref) 
@@ -54,11 +56,13 @@ int main()
     /* Start with the empty list */
     struct Node* head = NULL; 
   
+  // direct input from code itself
     push(&head, 20); 
     push(&head, 4); 
     push(&head, 15); 
     push(&head, 85); 
-  
+   
+  //calling function under print to print the output of function dirctly
     printf("Given linked list\n"); 
     printList(head); 
     reverse(&head); 
