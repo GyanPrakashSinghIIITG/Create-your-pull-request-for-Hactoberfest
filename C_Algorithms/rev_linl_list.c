@@ -48,6 +48,7 @@ void printList(struct Node* head)
 } 
   
 /* Driver program to test above function*/
+// main part with some input direct to the function from code itself
 int main() 
 { 
     /* Start with the empty list */
