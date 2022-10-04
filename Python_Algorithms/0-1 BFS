@@ -1,4 +1,4 @@
-# Python3 program to implement single source 
+# this Python3 program to implement single source 
 # shortest path for a Binary Graph 
 from sys import maxsize as INT_MAX 
 from collections import deque 
