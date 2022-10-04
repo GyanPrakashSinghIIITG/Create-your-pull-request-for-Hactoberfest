@@ -1,5 +1,5 @@
 /*
-This dictionary is used to store keywords with their meanings.
+This dictionary is used to store keywords with their meaning.
 */
 
 
