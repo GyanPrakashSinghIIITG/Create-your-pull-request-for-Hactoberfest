@@ -6,9 +6,7 @@
 
 # <center> Hacktober Fest 2022 For Everyone! </center>
 
-<p align="center">
-   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/GyanPrakashSinghIIITG/Create-your-pull-request-for-Hactoberfest>
-</p>
+
 
 # Upload Projects or Different Types of Programs in any Language
 
