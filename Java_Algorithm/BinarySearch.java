@@ -1,4 +1,4 @@
-// This is the code for simple and basic binary search and hope it can help. !! 
+// This is the code for simple and basic binary search and hope it can help you. !! 
 import java.io.*;
 import java.util.*;
 
